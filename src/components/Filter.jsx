@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import styles from './ContactItem.module.css';
+import styles from './ContactItem.module.css'
 
 const Filter = ({ value, onChange }) => (
   <div>
